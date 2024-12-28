@@ -1,0 +1,32 @@
+.main{
+    width:97vw;
+    height:98vh;
+    display: flex;
+    align-items: center; 
+    justify-content: center;  
+}
+
+.card{
+    height:400px;
+    width:60%;
+    display: flex;
+    border-radius: 10px;
+    
+}
+
+#left{
+    border-radius: 10px;
+    height:400px;
+    width:35%;
+    background-color: #00D3D4;
+    padding-left: 30px;
+    padding-top: 30px;
+    
+}
+
+#right{
+    border-radius: 10px;
+    height:400px;
+    width:65%;
+    background-color: #bbb;
+}
